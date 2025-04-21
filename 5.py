@@ -1,6 +1,0 @@
-a=int(input("Enter first number= "))
-b=int(input("Enter second number= "))
-print("Sum is ", a+b)
-print("Diference is ", a-b)
-print("Product is ", a*b)
-print("Quotient is ", a/b)
