@@ -1,0 +1,5 @@
+a=int(input("Marks in subject 1= "))
+b=int(input("Marks in subject 2= "))
+c=int(input("Marks in subject 3= "))
+print("Avg marks= ",(a+b+c)/3)
+print("Total marks= ", a+b+c)
