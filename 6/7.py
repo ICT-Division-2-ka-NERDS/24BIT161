@@ -1,0 +1,8 @@
+a=(1,2,3,4,5)
+print(a)
+b=int(input("Choose element to delete= "))
+i=a.index(b)
+l=list(a)
+l.pop(i)
+a=tuple(l)
+print(a)
